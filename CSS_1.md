@@ -7,6 +7,7 @@
   
 2. Create a box containing multiple spaced boxes:
    - a box centered in the page around 400px wide
+   - all text should be double the default text size
    - Center boxes details:
        - 4 vertical boxes in the center of the bigger box
        - Each center box should have a different color
